@@ -1,0 +1,44 @@
+@media(max-width:425px){
+    .container{
+        width: 90%;
+        height: 90vh;
+    }
+    .content{
+        /* padding: 20vw 10vw; */
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        width: 100%;
+    }
+    .ques{
+        font-size: 6vw;
+        margin-bottom: 5vw;
+
+    }
+    label{
+        font-size: 4vw;
+
+    }
+
+    .submit{
+        font-size: 4vw;
+    }
+
+    .result h1:nth-child(2){
+        font-size: 5vw;
+    }
+    .result h1:nth-child(3){
+        font-size: 5vw;
+    }
+    .result h2{
+        font-size: 5vw;
+    }
+    .result h1{
+        font-size: 6vw;
+    }
+    .play{
+        font-size: 4vw;
+        padding: 2vw 4vw;
+    }
+}
