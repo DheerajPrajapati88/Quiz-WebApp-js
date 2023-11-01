@@ -1,7 +1,7 @@
 @media(max-width:425px){
     .container{
         width: 90%;
-        height: 90vh;
+        height: 60vh;
     }
     .content{
         /* padding: 20vw 10vw; */
